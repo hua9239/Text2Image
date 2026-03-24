@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  text2image:
+    # Build from local Dockerfile
+    build: .
+    container_name: text2image-api
+    
+    # Expose API on port 3000
+    ports:
+      - "3000:3000"
+    
+    # Mount directory for persistent image caching
+    volumes:
+      - ./generated_images:/app/generated_images
+    
+    # Environment configuration
+    environment:
+      - PYTHONUNBUFFERED=1  # Show Python logs in real-time
+    
+    # Auto-restart policy
+    restart: unless-stopped

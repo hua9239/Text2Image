@@ -1,0 +1,33 @@
+# Python cache and bytecode
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Generated images (created at runtime)
+generated_images/
+
+# Version control
+.git
+.gitignore
+.dockerignore
+
+# Documentation (not needed in container)
+README.md
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
