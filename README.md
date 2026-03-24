@@ -39,9 +39,9 @@ http://127.0.0.1:3000/image?text=你是狂派變形金剛喔
 http://127.0.0.1:3000/image?text=海上的大風像碎玻璃一樣%20猛刮我的小臉蛋
 ```
 
-![我是一台邪惡的卡車](generated_images\3db785fbd38e69a066f58ebdfa9cbf525f78494576375ada1deebd4f014e3ae4.png)
-![你是狂派變形金剛喔](generated_images\5a14db09abf7c04a12700adf894b62c158313c6a955492eecca0dd675dbc51c1.png)
-![海上的大風像碎玻璃一樣%20猛刮我的小臉蛋](generated_images\93547159f48922e5673a09d846e9a0e6f35bca6293007d36a97827bd7f86394f.png)
+![我是一台邪惡的卡車](generated_images/3db785fbd38e69a066f58ebdfa9cbf525f78494576375ada1deebd4f014e3ae4.png)
+![你是狂派變形金剛喔](generated_images/5a14db09abf7c04a12700adf894b62c158313c6a955492eecca0dd675dbc51c1.png)
+![海上的大風像碎玻璃一樣%20猛刮我的小臉蛋](generated_images/93547159f48922e5673a09d846e9a0e6f35bca6293007d36a97827bd7f86394f.png)
 
 
 ### URL 編碼
